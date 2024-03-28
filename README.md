@@ -4,7 +4,7 @@
 
 - React, Typescript
 - Tailwind CSS, NextUI
-- Axios, React router
+- Axios, React router, Jest
 
 ## Features
 
@@ -13,3 +13,10 @@
 - Paginated list of games
 - Filter by status
 - Create new game or join other games
+
+## Demonstration pictures
+
+![showcase1](samples/images/game-list.png)
+
+
+![showcase2](samples/images/played-game.png)
