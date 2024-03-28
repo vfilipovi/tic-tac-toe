@@ -118,8 +118,8 @@ const UserSignIn = () => {
           </div>
           <Button type="submit">
             {locationState?.type === "registration"
-              ? "Registracija"
-              : "Prijava"}
+              ? "Registration"
+              : "Sign in"}
           </Button>
         </form>
       </>
